@@ -1,0 +1,15 @@
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\obj\Debug\net7.0\ObjectValidator.csproj.AssemblyReference.cache
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\obj\Debug\net7.0\ObjectValidator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\obj\Debug\net7.0\ObjectValidator.AssemblyInfoInputs.cache
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\obj\Debug\net7.0\ObjectValidator.AssemblyInfo.cs
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\obj\Debug\net7.0\ObjectValidator.csproj.CoreCompileInputs.cache
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\bin\Debug\net7.0\ObjectValidator.exe
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\bin\Debug\net7.0\ObjectValidator.deps.json
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\bin\Debug\net7.0\ObjectValidator.runtimeconfig.json
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\bin\Debug\net7.0\ObjectValidator.dll
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\bin\Debug\net7.0\ObjectValidator.pdb
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\obj\Debug\net7.0\ObjectValidator.dll
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\obj\Debug\net7.0\refint\ObjectValidator.dll
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\obj\Debug\net7.0\ObjectValidator.pdb
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\obj\Debug\net7.0\ObjectValidator.genruntimeconfig.cache
+D:\Programing\c# .NET\MyOwnValidator\ObjectValidator\ObjectValidator\obj\Debug\net7.0\ref\ObjectValidator.dll
